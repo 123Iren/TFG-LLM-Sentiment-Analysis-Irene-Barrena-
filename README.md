@@ -43,7 +43,7 @@ El corpus utilizado es Amazon Reviews Multi (español), disponible públicamente
 
 ## Resultados
 
-La carpeta `results/` contiene los resultados de las 18 combinaciones modelo-técnica evaluadas. El archivo `resultados_completos.json` incluye, para cada combinación: métricas de clasificación (accuracy, F1-macro, precision, recall, F1 por clase, intervalos de confianza), predicciones individuales, prompts enviados y respuestas generadas por cada modelo. Los archivos parciales corresponden a las ejecuciones independientes de cada modelo en sesiones separadas de Google Colab.
+La carpeta `resultados/` contiene los resultados de las 18 combinaciones modelo-técnica evaluadas. El archivo `resultados_completos.json` incluye, para cada combinación: métricas de clasificación (accuracy, F1-macro, precision, recall, F1 por clase, intervalos de confianza), predicciones individuales, prompts enviados y respuestas generadas por cada modelo. Los archivos parciales corresponden a las ejecuciones independientes de cada modelo en sesiones separadas de Google Colab.
 
 ## Tecnologías
 
